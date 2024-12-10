@@ -34,7 +34,7 @@ Centung is Centung is an innovative digital solution designed to predict and add
 
 ## Deployed API
 
-API Endpoint : [Endpoint](https://api-model-ml-343378515387.asia-southeast2.run.app/)
+API Endpoint : [Endpoint](https://api-model-ml-343378515387.asia-southeast2.run.app/predict)
 
 ## Datasets
 
